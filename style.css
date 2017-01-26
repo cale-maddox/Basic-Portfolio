@@ -1,0 +1,42 @@
+body{
+	background-image: url("background.png");
+}
+
+head{
+	background-color: white;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+div.content {
+	background-color: yellow;
+	width: 400px;
+	height: 300px;
+	border: 7px solid black;
+	margin: 20px 30px 10px 70px;
+	overflow: auto;
+}
+
+div.header {
+	background-color: #ffffff;
+	border-bottom: 3px solid #cccccc;
+	width: 100%;
+	height: 100px;
+}
+
+div.me {
+	background-color: #4aaaaf;
+	width: 90px;
+	height: 40px;
+	margin: 0px 0px 0px 50px;
+	text-align: center;
+
+}
+
+h1 {
+	color: white;
+	font-size: 30px;
+}
